@@ -1,4 +1,4 @@
-# New-Yorks-City-Bike-Trips-2022
+# New-York-City-Bike-Trips-2022
 Data Visualization with Python: Creating a Strategic Dashboard
 Project: Citi Bike User Behavior and Logistics Analysis
 Led a descriptive analysis using 2022 Citi Bike and NOAA weather data to identify distribution inefficiencies in NYC's bike-sharing system.
