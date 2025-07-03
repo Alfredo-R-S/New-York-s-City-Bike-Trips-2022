@@ -13,5 +13,5 @@ datetime
 numerizer
 PIL
 humanize
-seaborn as sns
+seaborn
 plotly.express
