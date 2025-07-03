@@ -77,6 +77,7 @@ elif page == 'Weather component and bike usage':
     st.markdown("The dual-axis line chart shows daily bike trips and temperatures throughout 2022. It reveals a clear relationship between    temperature and bike usage. During the colder months—January, February, November, and December—daily temperatures often drop below 0°C, and bike usage tends to increase, peaking on days when temperatures are especially low. This suggests that in cold weather, people may prefer biking over walking to reduce exposure time to uncomfortable conditions.")
 
     st.markdown("In contrast, from April to October, when daily temperatures rise and often stay above 15–20°C and in some cases above 30°C, there is a noticeable decline in bike trips. This trend indicates that in warmer conditions, people may favor walking instead of biking, as cycling requires more physical effort and generates additional body heat, which can be uncomfortable during hot weather. Overall, the chart suggests an inverse correlation between temperature and bike usage: bike trips rise as temperatures fall and decrease as temperatures climb.")
+    st.markdown("How much would you recommend scaling bikes back between November and April?")
 
 # ######################################### Most popular stations #####################################################################
 
@@ -112,6 +113,7 @@ elif page == 'Most popular stations':
     )
     st.plotly_chart(fig, use_container_width=True)
     st.markdown("Based on the analysis of the bar chart, the top 20 most common bike stations in New York during 2022 are primarily located in Manhattan. The top three stations are 11 Ave & W 41 St, E 20 St & 2 Ave, and W 27 St & 7 Ave. This suggests that most riders begin or end their trips within Manhattan. Although there are stations in New Jersey and Brooklyn, they appear far less frequently among the most popular locations. This finding can be cross-referenced with the interactive map.")
+    st.markdown("What are some ideas for ensuring bikes are always stocked at the most popular stations?")
 
 # ######################################### Interactive map with aggregated bike trips #####################################################################
 elif page == 'Interactive map with aggregated bike trips': 
@@ -139,6 +141,7 @@ elif page == 'Interactive map with aggregated bike trips':
     st.markdown("Battery Park and Brooklyn Bridge entry/exit points also show high trip termination or origin.")
     st.markdown("#### Absence of Trips in Some Boroughs")
     st.markdown("The Bronx, Queens, and much of Brooklyn are underrepresented in this filtered data (due to the 1,000-trip threshold), indicating these routes see less frequent use or more distributed trip paths.")
+    st.markdown("How could you determine how many more stations to add along the water?")
 
  # ######################################### Top 10 Ride Durations by Rideable Type #####################################################################
 
