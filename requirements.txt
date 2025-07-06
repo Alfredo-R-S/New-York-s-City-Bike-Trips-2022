@@ -8,7 +8,6 @@ numpy==1.26.4
 keplergl==0.3.2
 datetime
 numerizer==0.2.4
-PIL
 humanize==4.12.2
 seaborn==0.13.2
 plotly.express==6.0.1
