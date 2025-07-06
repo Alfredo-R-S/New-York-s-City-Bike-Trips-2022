@@ -5,7 +5,7 @@ pillow==11.1.0
 streamlit==1.46.0
 pandas==2.2.3 
 numpy==1.26.4
-plotly.graph_objects==6.0.1
+plotly.graph_objects
 keplergl==0.3.2
 datetime
 numerizer==0.2.4
