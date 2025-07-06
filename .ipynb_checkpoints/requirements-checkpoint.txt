@@ -5,7 +5,7 @@ pillow==11.1.0
 streamlit==1.46.0
 pandas==2.2.3 
 numpy==1.26.4
-keplergl==0.3.2
+keplergl
 datetime
 numerizer==0.2.4
 humanize==4.12.2
