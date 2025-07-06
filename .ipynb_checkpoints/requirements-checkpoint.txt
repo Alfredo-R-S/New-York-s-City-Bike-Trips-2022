@@ -10,4 +10,4 @@ datetime
 numerizer==0.2.4
 humanize==4.12.2
 seaborn==0.13.2
-plotly.express==6.0.1
+plotly.express
