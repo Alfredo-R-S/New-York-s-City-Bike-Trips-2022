@@ -1,0 +1,366 @@
+date,bike_rides_daily,temp,month,season,start_station_name,value,rideable_type,ride_duration
+2022-01-01,189.0,11.6,1,winter,28 St & 36 Ave,1,classic_bike,8
+2022-01-02,436.0,11.4,1,winter,Centre St & Worth St,1,classic_bike,4
+2022-01-03,341.0,1.4,1,winter,Allen St & Hester St,1,electric_bike,16
+2022-01-04,362.0,-2.7,1,winter,Broad St & Bridge St,1,classic_bike,13
+2022-01-05,321.0,3.2,1,winter,Front St & Jay St,1,classic_bike,20
+2022-01-06,381.0,4.9,1,winter,S 5 Pl & S 5 St,1,electric_bike,9
+2022-01-07,169.0,0.7,1,winter,E 7 St & Ave C,1,electric_bike,9
+2022-01-08,247.0,-2.5,1,winter,E 82 St & East End Ave,1,electric_bike,4
+2022-01-09,193.0,1.4,1,winter,Water St & Main St,1,electric_bike,28
+2022-01-10,337.0,1.6,1,winter,Greenwich Ave & 8 Ave,1,classic_bike,42
+2022-01-11,266.0,-5.4,1,winter,Bleecker St & Crosby St,1,electric_bike,10
+2022-01-12,399.0,-1.9,1,winter,40 Ave & 9 St,1,classic_bike,13
+2022-01-13,486.0,4.0,1,winter,28 St & 36 Ave,1,electric_bike,26
+2022-01-14,465.0,4.8,1,winter,1 Ave & E 39 St,1,electric_bike,6
+2022-01-15,211.0,-6.7,1,winter,Cleveland Pl & Spring St,1,electric_bike,4
+2022-01-16,209.0,-8.0,1,winter,Pike St & Monroe St,1,classic_bike,2
+2022-01-17,295.0,3.9,1,winter,Wilson Ave & Troutman St,1,electric_bike,29
+2022-01-18,455.0,1.8,1,winter,W 37 St & 5 Ave,1,electric_bike,2
+2022-01-19,542.0,3.2,1,winter,N 12 St & Bedford Ave,1,classic_bike,9
+2022-01-20,312.0,5.1,1,winter,Cooper Square & Astor Pl,1,electric_bike,7
+2022-01-21,335.0,-6.0,1,winter,St Johns Pl & Washington Ave,1,classic_bike,16
+2022-01-22,320.0,-5.9,1,winter,Riverside Dr & W 91 St,1,classic_bike,5
+2022-01-23,286.0,-0.7,1,winter,Wyckoff Av & Jefferson St,1,classic_bike,4
+2022-01-24,413.0,-0.2,1,winter,Grand Army Plaza & Central Park S,1,electric_bike,20
+2022-01-25,513.0,3.6,1,winter,W 37 St & 5 Ave,1,classic_bike,5
+2022-01-26,407.0,-2.3,1,winter,1 Ave & E 39 St,1,electric_bike,15
+2022-01-27,401.0,-4.2,1,winter,Wythe Ave & Metropolitan Ave,1,electric_bike,7
+2022-01-28,330.0,0.1,1,winter,W 26 St & 8 Ave,1,classic_bike,20
+2022-01-29,29.0,-4.8,1,winter,Central Park S & 6 Ave,1,electric_bike,53
+2022-01-30,109.0,-7.1,1,winter,1 Ave & E 62 St,1,electric_bike,32
+2022-01-31,228.0,-3.4,1,winter,Broadway & W 131 St,1,classic_bike,26
+2022-02-01,259.0,-1.7,2,winter,Riverside Blvd & W 67 St,1,classic_bike,9
+2022-02-02,333.0,2.3,2,winter,11 Ave & W 59 St,1,classic_bike,5
+2022-02-03,196.0,6.4,2,winter,W 36 St & 7 Ave,1,classic_bike,13
+2022-02-04,186.0,5.8,2,winter,Vesey Pl & River Terrace,1,classic_bike,3
+2022-02-05,273.0,-2.8,2,winter,West Drive & Prospect Park West,1,classic_bike,7
+2022-02-06,233.0,-4.8,2,winter,Sterling Pl & Bedford Ave,1,electric_bike,40
+2022-02-07,266.0,0.5,2,winter,Old Fulton St,1,classic_bike,3
+2022-02-08,416.0,4.1,2,winter,E 4 St & 2 Ave,1,classic_bike,6
+2022-02-09,445.0,2.8,2,winter,2 Ave & 36 St,1,electric_bike,20
+2022-02-10,564.0,6.3,2,winter,Douglass St & 4 Ave,1,classic_bike,8
+2022-02-11,564.0,8.6,2,winter,Water St & Gouverneur Ln,1,classic_bike,20
+2022-02-12,574.0,11.8,2,winter,Grand St & Samuel Dickstein Plaza,1,electric_bike,22
+2022-02-13,172.0,2.8,2,winter,Motorgate,1,classic_bike,4
+2022-02-14,299.0,-4.3,2,winter,Driggs Ave & Lorimer St,1,classic_bike,5
+2022-02-15,365.0,-4.7,2,winter,Carroll St & 6 Ave,1,classic_bike,5
+2022-02-16,474.0,1.6,2,winter,5 Ave & 41 St,1,classic_bike,7
+2022-02-17,527.0,11.6,2,winter,President St & 4 Ave,1,electric_bike,4
+2022-02-18,370.0,9.9,2,winter,W 18 St & 6 Ave,1,electric_bike,5
+2022-02-19,304.0,0.1,2,winter,Van Brunt St & Van Dyke St,1,classic_bike,27
+2022-02-20,269.0,-2.6,2,winter,Congress St & Clinton St,1,electric_bike,12
+2022-02-21,419.0,4.1,2,winter,Water St & Gouverneur Ln,1,electric_bike,10
+2022-02-22,316.0,5.6,2,winter,Little West St & 1 Pl,1,classic_bike,3
+2022-02-23,571.0,14.4,2,winter,E 40 St & Park Ave,1,classic_bike,8
+2022-02-24,353.0,1.1,2,winter,LaGuardia Pl & W 3 St,1,classic_bike,16
+2022-02-25,274.0,0.8,2,winter,Vesey Pl & River Terrace,1,classic_bike,16
+2022-02-26,348.0,-1.1,2,winter,Greenwich Ave & Charles St,1,classic_bike,3
+2022-02-27,329.0,2.4,2,winter,Broadway & W 153 St,1,electric_bike,11
+2022-02-28,368.0,0.8,2,winter,E 4 St & 2 Ave,1,classic_bike,22
+2022-03-01,326.0,2.6,3,winter,Steinway St & 23 Ave,1,electric_bike,4
+2022-03-02,349.0,7.7,3,winter,1 Ave & E 39 St,1,classic_bike,11
+2022-03-03,293.0,5.6,3,winter,E 40 St & Park Ave,1,electric_bike,8
+2022-03-04,254.0,-1.9,3,winter,E 60 St & York Ave,1,classic_bike,9
+2022-03-05,282.0,3.1,3,winter,Albemarle Rd & McDonald Ave,1,electric_bike,8
+2022-03-06,285.0,9.6,3,winter,Myrtle Ave & Fleet Pl,1,classic_bike,4
+2022-03-07,365.0,18.2,3,winter,Mercer St & Bleecker St,1,classic_bike,3
+2022-03-08,302.0,8.7,3,winter,West St & Liberty St,1,classic_bike,46
+2022-03-09,135.0,3.2,3,winter,40 Ave & 9 St,1,electric_bike,23
+2022-03-10,347.0,4.0,3,winter,Henry St & Middagh St,1,classic_bike,8
+2022-03-11,353.0,7.2,3,winter,Steinway St & 21 Ave,1,classic_bike,7
+2022-03-12,102.0,5.1,3,winter,Graham Ave & Herbert St,1,classic_bike,9
+2022-03-13,194.0,-2.3,3,winter,Henry St & Grand St,1,classic_bike,11
+2022-03-14,322.0,5.3,3,winter,W 42 St & 6 Ave,1,electric_bike,6
+2022-03-15,426.0,11.6,3,winter,Cleveland Pl & Spring St,1,electric_bike,8
+2022-03-16,443.0,13.6,3,winter,W 41 St & 8 Ave,1,classic_bike,21
+2022-03-17,272.0,8.2,3,winter,11 Ave & W 41 St,1,electric_bike,13
+2022-03-18,493.0,13.9,3,winter,Frederick Douglass Blvd & W 117 St,1,electric_bike,7
+2022-03-19,414.0,13.1,3,winter,Lafayette St & E 8 St,1,classic_bike,5
+2022-03-20,380.0,14.3,3,winter,W 70 St & Amsterdam Ave,1,classic_bike,7
+2022-03-21,383.0,10.4,3,winter,E 15 St & 3 Ave,1,classic_bike,14
+2022-03-22,381.0,10.7,3,winter,Adam Clayton Powell Blvd & W 118 St,1,classic_bike,8
+2022-03-23,337.0,7.2,3,winter,Flushing Ave & Vanderbilt Ave,1,classic_bike,6
+2022-03-24,238.0,5.7,3,winter,2 Ave & E 29 St,1,electric_bike,6
+2022-03-25,391.0,9.6,3,winter,W 31 St & 7 Ave,1,electric_bike,10
+2022-03-26,317.0,10.4,3,winter,Willoughby St & Fleet St,1,classic_bike,3
+2022-03-27,259.0,5.9,3,winter,W 54 St & 9 Ave,1,classic_bike,6
+2022-03-28,220.0,-1.5,3,winter,Fulton St & Adams St,1,classic_bike,3
+2022-03-29,245.0,-1.2,3,winter,E 2 St & 2 Ave,1,electric_bike,6
+2022-03-30,313.0,2.6,3,winter,E 59 St & Madison Ave,1,electric_bike,13
+2022-03-31,417.0,9.9,3,winter,Greenwich St & Perry St,1,classic_bike,19
+2022-04-01,305.0,13.1,4,winter,Broadway & W 51 St,1,classic_bike,4
+2022-04-02,350.0,7.2,4,winter,Wythe Ave & Metropolitan Ave,1,classic_bike,7
+2022-04-03,167.0,7.0,4,winter,58 St & 2 Ave - Brooklyn Army Terminal Vaccination Site,1,classic_bike,11
+2022-04-04,301.0,7.6,4,winter,28 St & 36 Ave,1,classic_bike,3
+2022-04-05,327.0,9.7,4,winter,W 18 St & 9 Ave,1,electric_bike,13
+2022-04-06,191.0,8.6,4,winter,W 59 St & 10 Ave,1,classic_bike,3
+2022-04-07,161.0,9.1,4,winter,W 113 St & Broadway,1,electric_bike,2
+2022-04-08,403.0,12.8,4,winter,Lawrence St & Willoughby St,1,electric_bike,24
+2022-04-09,309.0,11.4,4,winter,W 64 St & Thelonious Monk Circle,1,electric_bike,7
+2022-04-10,239.0,8.6,4,winter,Broadway & Hancock St,1,electric_bike,2
+2022-04-11,314.0,8.8,4,winter,Kent Ave & N 7 St,1,classic_bike,7
+2022-04-12,386.0,13.4,4,winter,W 42 St & 6 Ave,1,classic_bike,8
+2022-04-13,427.0,15.4,4,winter,Avenue C & E 18 St,1,classic_bike,21
+2022-04-14,363.0,16.3,4,winter,E 2 St & Avenue B,1,classic_bike,5
+2022-04-15,429.0,15.7,4,winter,William St & Pine St,1,classic_bike,2
+2022-04-16,363.0,15.7,4,winter,Howard St & Lafayette St,1,classic_bike,6
+2022-04-17,222.0,8.3,4,winter,Rivington St & Ridge St,1,classic_bike,4
+2022-04-18,233.0,7.9,4,winter,W 120 St & Claremont Ave,1,electric_bike,6
+2022-04-19,289.0,7.6,4,winter,Willoughby Ave & Walworth St,1,classic_bike,10
+2022-04-20,355.0,9.4,4,winter,W 26 St & 8 Ave,1,electric_bike,7
+2022-04-21,341.0,10.6,4,winter,E 20 St & 2 Ave,1,classic_bike,8
+2022-04-22,428.0,14.6,4,winter,Greene Ave & Nostrand Ave,1,classic_bike,6
+2022-04-23,436.0,13.3,4,winter,Greenwich St & W Houston St,1,classic_bike,3
+2022-04-24,353.0,12.8,4,winter,W 47 St & 6 Ave,1,classic_bike,19
+2022-04-25,357.0,10.4,4,winter,9 Ave & W 18 St,1,classic_bike,7
+2022-04-26,319.0,11.5,4,winter,Lexington Ave & E 24 St,1,classic_bike,3
+2022-04-27,369.0,11.6,4,winter,11 Ave & W 41 St,1,classic_bike,16
+2022-04-28,361.0,8.2,4,winter,9 Ave & W 18 St,1,electric_bike,3
+2022-04-29,403.0,10.4,4,winter,West End Ave & W 60 St,1,classic_bike,16
+2022-04-30,466.0,12.9,4,winter,Waterbury St & Stagg St,1,electric_bike,16
+2022-05-01,324.0,13.6,5,spring,Grand St & Havemeyer St,1,classic_bike,7
+2022-05-02,200.0,12.1,5,spring,2 Ave & E 55 St,1,electric_bike,4
+2022-05-03,328.0,12.4,5,spring,W 15 St & 6 Ave,1,classic_bike,15
+2022-05-04,256.0,12.0,5,spring,Grand Army Plaza & Plaza St West,1,classic_bike,15
+2022-05-05,361.0,17.2,5,spring,Front St & Jay St,1,classic_bike,16
+2022-05-06,114.0,14.8,5,spring,E 84 St & 1 Ave,1,classic_bike,4
+2022-05-07,67.0,10.0,5,spring,E 41 St & Madison Ave (SE corner),1,electric_bike,5
+2022-05-08,226.0,10.4,5,spring,W 12 St & Hudson St,1,classic_bike,18
+2022-05-09,321.0,13.5,5,spring,W 27 St & 7 Ave,1,electric_bike,42
+2022-05-10,371.0,15.4,5,spring,W 12 St & Hudson St,1,classic_bike,10
+2022-05-11,372.0,16.1,5,spring,W 12 St & Hudson St,1,classic_bike,17
+2022-05-12,396.0,17.1,5,spring,Sterling St & Bedford Ave,1,electric_bike,24
+2022-05-13,348.0,16.0,5,spring,Forsyth St\t& Grand St,1,classic_bike,5
+2022-05-14,274.0,17.9,5,spring,W 12 St & Hudson St,1,classic_bike,8
+2022-05-15,391.0,18.8,5,spring,E 58 St & 3 Ave,1,classic_bike,14
+2022-05-16,258.0,20.4,5,spring,W 27 St & 7 Ave,1,classic_bike,9
+2022-05-17,404.0,19.7,5,spring,8 Ave & W 38 St,1,classic_bike,28
+2022-05-18,380.0,17.8,5,spring,W 111 St & 5 Ave,1,classic_bike,9
+2022-05-19,308.0,15.5,5,spring,W 24 St & 7 Ave,1,classic_bike,12
+2022-05-20,310.0,15.4,5,spring,Barrow St & Hudson St,1,electric_bike,6
+2022-05-21,391.0,21.2,5,spring,Amsterdam Ave & W 79 St,1,electric_bike,34
+2022-05-22,384.0,27.8,5,spring,W 22 St & 8 Ave,1,electric_bike,7
+2022-05-23,394.0,21.0,5,spring,Henry St & Atlantic Ave,1,classic_bike,18
+2022-05-24,350.0,17.4,5,spring,Rivington St & Ridge St,1,electric_bike,8
+2022-05-25,389.0,16.2,5,spring,21 St & Hoyt Ave S,1,classic_bike,4
+2022-05-26,390.0,16.4,5,spring,67 St & Ridge Blvd,1,electric_bike,27
+2022-05-27,311.0,20.2,5,spring,E 58 St & 3 Ave,1,classic_bike,5
+2022-05-28,263.0,20.4,5,spring,2 Ave & E 55 St,1,classic_bike,12
+2022-05-29,349.0,20.7,5,spring,Gerard Ave & E 164 St,1,electric_bike,11
+2022-05-30,362.0,23.3,5,spring,Pike St & E Broadway,1,classic_bike,39
+2022-05-31,378.0,28.3,5,spring,Madison St & Montgomery St,1,classic_bike,8
+2022-06-01,254.0,17.8,6,summer,Amsterdam Ave & W 131 St,1,classic_bike,3
+2022-06-02,280.0,20.3,6,summer,Carlton Ave & Dean St,1,classic_bike,9
+2022-06-03,364.0,19.5,6,summer,Spruce St & Nassau St,1,classic_bike,22
+2022-06-04,345.0,21.9,6,summer,62 St & Northern Blvd,1,electric_bike,66
+2022-06-05,310.0,20.0,6,summer,Greenwich Ave & Charles St,1,electric_bike,31
+2022-06-06,341.0,22.2,6,summer,Broadway & W 37 St,1,classic_bike,5
+2022-06-07,316.0,21.8,6,summer,W 30 St & 8 Ave,1,classic_bike,7
+2022-06-08,375.0,23.7,6,summer,Broadway & W 61 St,1,electric_bike,8
+2022-06-09,367.0,24.4,6,summer,6 Ave & W 45 St,1,classic_bike,10
+2022-06-10,331.0,21.8,6,summer,E 66 St & Madison Ave,1,electric_bike,2
+2022-06-11,344.0,21.8,6,summer,18 St & 27 Ave,1,classic_bike,48
+2022-06-12,257.0,20.5,6,summer,Bond St & Fulton St,1,classic_bike,9
+2022-06-13,346.0,24.2,6,summer,E 50 St & Park Ave,1,classic_bike,7
+2022-06-14,352.0,23.9,6,summer,E 30 St & Park Ave S,1,classic_bike,5
+2022-06-15,380.0,23.3,6,summer,Fulton St & Adams St,1,classic_bike,5
+2022-06-16,294.0,20.3,6,summer,Rogers Ave & Sterling St,1,classic_bike,56
+2022-06-17,362.0,25.2,6,summer,6 Ave & W 45 St,1,classic_bike,11
+2022-06-18,341.0,21.7,6,summer,Jay St & York St,1,electric_bike,13
+2022-06-19,298.0,17.3,6,summer,E 39 St & Lexington Ave,1,classic_bike,19
+2022-06-20,329.0,20.5,6,summer,Warren St & W Broadway,1,classic_bike,9
+2022-06-21,311.0,22.1,6,summer,Lenox Ave & W 117 St,1,electric_bike,7
+2022-06-22,303.0,19.1,6,summer,W 39 St & 9 Ave,1,classic_bike,8
+2022-06-23,338.0,19.2,6,summer,Allen St & Stanton St,1,classic_bike,1
+2022-06-24,401.0,21.9,6,summer,E 14 St & 1 Ave,1,classic_bike,6
+2022-06-25,362.0,25.8,6,summer,W 29 St & 9 Ave,1,electric_bike,60
+2022-06-26,319.0,27.0,6,summer,Nassau St & Navy St,1,classic_bike,17
+2022-06-27,214.0,24.3,6,summer,Riverside Blvd & W 67 St,1,electric_bike,29
+2022-06-28,397.0,22.4,6,summer,11 Ave & W 41 St,1,classic_bike,9
+2022-06-29,412.0,23.9,6,summer,Fulton St & Adams St,1,classic_bike,19
+2022-06-30,343.0,25.4,6,summer,Broadway & E 19 St,1,classic_bike,7
+2022-07-01,321.0,28.1,7,summer,3 St & Prospect Park West,1,classic_bike,7
+2022-07-02,242.0,28.7,7,summer,W 92 St & Broadway,1,electric_bike,20
+2022-07-03,262.0,26.9,7,summer,E 66 St & Madison Ave,1,electric_bike,14
+2022-07-04,287.0,25.6,7,summer,Central Park West & W 85 St,1,electric_bike,9
+2022-07-05,262.0,25.9,7,summer,Lexington Ave & E 120 St,1,classic_bike,16
+2022-07-06,332.0,26.0,7,summer,Putnam Ave & Knickerbocker Ave,1,electric_bike,43
+2022-07-07,336.0,24.2,7,summer,W 37 St & Broadway,1,electric_bike,11
+2022-07-08,278.0,23.5,7,summer,2 Ave & E 96 St,1,classic_bike,9
+2022-07-09,330.0,24.7,7,summer,Lafayette St & Jersey St,1,electric_bike,34
+2022-07-10,348.0,23.4,7,summer,Lenox Ave & W 133 St,1,classic_bike,3
+2022-07-11,343.0,24.0,7,summer,E 11 St & 3 Ave,1,classic_bike,6
+2022-07-12,312.0,25.8,7,summer,Ave A & E 14 St,1,classic_bike,5
+2022-07-13,364.0,28.9,7,summer,44 Dr & Jackson Ave,1,electric_bike,14
+2022-07-14,371.0,26.6,7,summer,E 14 St & 1 Ave,1,classic_bike,4
+2022-07-15,355.0,26.1,7,summer,Madison Ave & E 99 St,1,electric_bike,9
+2022-07-16,350.0,24.3,7,summer,Bedford Ave & Bergen St,1,classic_bike,18
+2022-07-17,344.0,25.7,7,summer,E 44 St & 2 Ave,1,electric_bike,13
+2022-07-18,244.0,26.2,7,summer,37 Ave & 35 St,1,classic_bike,5
+2022-07-19,392.0,28.2,7,summer,Forsyth St & Broome St,1,electric_bike,15
+2022-07-20,357.0,31.3,7,summer,W 50 St & 9 Ave,1,classic_bike,33
+2022-07-21,294.0,29.8,7,summer,Murray St\t& West St,1,classic_bike,15
+2022-07-22,350.0,30.9,7,summer,Wadsworth Ave & W 179 St,1,electric_bike,9
+2022-07-23,314.0,30.3,7,summer,Ave A & E 11 St,1,electric_bike,14
+2022-07-24,308.0,31.1,7,summer,E 182 St & Morris Ave,1,electric_bike,42
+2022-07-25,267.0,29.8,7,summer,Broadway & W 58 St,1,classic_bike,6
+2022-07-26,345.0,25.9,7,summer,E 16 St & Irving Pl,1,classic_bike,34
+2022-07-27,337.0,25.5,7,summer,6 Ave & Broome St,1,classic_bike,7
+2022-07-28,352.0,26.7,7,summer,St Nicholas Ave & W 150 St,1,classic_bike,5
+2022-07-29,340.0,28.2,7,summer,Kosciuszko St & Tompkins Ave,1,electric_bike,15
+2022-07-30,379.0,26.7,7,summer,Allen St & Hester St,1,classic_bike,5
+2022-07-31,357.0,26.3,7,summer,E 53 St & Lexington Ave,1,classic_bike,23
+2022-08-01,275.0,23.1,8,summer,Frost St & Debevoise Ave,1,classic_bike,6
+2022-08-02,375.0,26.4,8,summer,E 14 St & Avenue B,1,electric_bike,2
+2022-08-03,343.0,27.6,8,summer,W 26 St & 10 Ave,1,classic_bike,35
+2022-08-04,348.0,29.1,8,summer,Grand Concourse & E 166 St,1,electric_bike,2
+2022-08-05,335.0,29.3,8,summer,Nostrand Ave & Myrtle Ave,1,classic_bike,7
+2022-08-06,339.0,29.6,8,summer,Central Park West & W 76 St,1,classic_bike,27
+2022-08-07,278.0,29.6,8,summer,West Broadway & Watts St,1,classic_bike,15
+2022-08-08,267.0,30.3,8,summer,W 50 St & 9 Ave,1,electric_bike,45
+2022-08-09,331.0,31.3,8,summer,Crescent St & 30 Ave,1,classic_bike,8
+2022-08-10,322.0,27.2,8,summer,Allen St & Stanton St,1,classic_bike,2
+2022-08-11,310.0,26.6,8,summer,Stagg St & Morgan Ave,1,electric_bike,12
+2022-08-12,373.0,25.6,8,summer,Market St & Henry St,1,classic_bike,36
+2022-08-13,330.0,23.1,8,summer,Prospect Park SW & 10 Ave,1,electric_bike,10
+2022-08-14,330.0,24.0,8,summer,8 Ave & W 33 St,1,classic_bike,3
+2022-08-15,316.0,24.3,8,summer,Broadway & 12 St,1,classic_bike,35
+2022-08-16,322.0,23.6,8,summer,W 43 St & 10 Ave,1,electric_bike,30
+2022-08-17,366.0,23.6,8,summer,8 Ave & W 31 St,1,classic_bike,15
+2022-08-18,331.0,24.1,8,summer,Throop Ave & Myrtle Ave,1,electric_bike,2
+2022-08-19,322.0,26.3,8,summer,Butler St & Court St,1,classic_bike,5
+2022-08-20,339.0,27.9,8,summer,Grand Army Plaza & Central Park S,1,electric_bike,24
+2022-08-21,329.0,25.3,8,summer,20 Ave & 31 St,1,classic_bike,5
+2022-08-22,226.0,24.5,8,summer,11 Ave & Prospect Ave,1,classic_bike,3
+2022-08-23,342.0,25.9,8,summer,Spring St & Hudson St,1,electric_bike,20
+2022-08-24,329.0,26.9,8,summer,Broadway & W 220 St,1,classic_bike,65
+2022-08-25,358.0,28.1,8,summer,10 Ave & W 14 St,1,classic_bike,10
+2022-08-26,304.0,27.4,8,summer,E 91 St & 2 Ave,1,classic_bike,17
+2022-08-27,304.0,27.8,8,summer,Van Brunt St & Van Dyke St,1,electric_bike,38
+2022-08-28,308.0,24.6,8,summer,1 Ave & E 68 St,1,classic_bike,3
+2022-08-29,294.0,26.0,8,summer,E 51 St & Lexington Ave,1,classic_bike,21
+2022-08-30,334.0,26.8,8,summer,Vernon Blvd & 50 Ave,1,classic_bike,4
+2022-08-31,353.0,25.6,8,summer,6 Ave & W 45 St,1,classic_bike,9
+2022-09-01,362.0,25.9,9,summer,W 34 St &\tHudson Blvd E,1,classic_bike,8
+2022-09-02,325.0,21.7,9,summer,E 26 St & 3 Ave,1,classic_bike,12
+2022-09-03,294.0,22.8,9,summer,E 4 St & Ave B,1,classic_bike,9
+2022-09-04,327.0,25.3,9,summer,Kent Ave & N 7 St,1,electric_bike,13
+2022-09-05,260.0,25.8,9,summer,E 161 St & River Ave,1,electric_bike,16
+2022-09-06,122.0,23.3,9,summer,E 6 St & Avenue B,1,electric_bike,14
+2022-09-07,327.0,20.8,9,summer,E 9 St & 5 Ave,1,classic_bike,19
+2022-09-08,393.0,21.8,9,summer,Little West St & 1 Pl,1,classic_bike,23
+2022-09-09,387.0,21.9,9,summer,Duane St & Hudson St,1,classic_bike,9
+2022-09-10,401.0,23.6,9,summer,48 St & Broadway,1,classic_bike,8
+2022-09-11,185.0,23.2,9,summer,W 27 St & 7 Ave,1,classic_bike,4
+2022-09-12,320.0,22.4,9,summer,Central Park W & W 97 St,1,classic_bike,10
+2022-09-13,348.0,24.7,9,summer,48 St & Broadway,1,classic_bike,8
+2022-09-14,402.0,22.9,9,summer,Willoughby Ave & Myrtle Ave,1,electric_bike,11
+2022-09-15,426.0,21.8,9,summer,31 St & Newtown Ave,1,classic_bike,20
+2022-09-16,383.0,19.6,9,summer,Bedford Ave & Bergen St,1,classic_bike,50
+2022-09-17,374.0,20.8,9,summer,W 47 St & 6 Ave,1,classic_bike,45
+2022-09-18,322.0,23.4,9,summer,5 Ave & E 72 St,1,electric_bike,83
+2022-09-19,278.0,25.6,9,summer,36 Ave & 31 St,1,classic_bike,11
+2022-09-20,353.0,23.2,9,summer,2 Ave & E 72 St,1,classic_bike,3
+2022-09-21,397.0,22.0,9,summer,Washington St & Laight St,1,classic_bike,13
+2022-09-22,277.0,21.8,9,summer,Lafayette St & E 8 St,1,electric_bike,8
+2022-09-23,330.0,15.1,9,summer,Vesey St & Church St,1,classic_bike,11
+2022-09-24,330.0,14.5,9,summer,E 33 St & 5 Ave,1,electric_bike,6
+2022-09-25,253.0,19.2,9,summer,Suydam St & Broadway,1,classic_bike,14
+2022-09-26,306.0,19.4,9,summer,Berry St & N 8 St,1,electric_bike,6
+2022-09-27,304.0,19.7,9,summer,E 97 St & 3 Ave,1,classic_bike,23
+2022-09-28,391.0,17.2,9,summer,6 Ave & W 45 St,1,classic_bike,11
+2022-09-29,353.0,16.6,9,summer,Central Park West & W 72 St,1,electric_bike,22
+2022-09-30,334.0,14.5,9,summer,6 Ave & W 34 St,1,electric_bike,7
+2022-10-01,188.0,14.8,10,fall,West Broadway & Watts St,1,electric_bike,5
+2022-10-02,185.0,15.2,10,fall,55 St & 5 Ave,1,electric_bike,7
+2022-10-03,163.0,11.5,10,fall,W 116 St & Amsterdam Ave,1,electric_bike,7
+2022-10-04,160.0,10.3,10,fall,W 20 St & 8 Ave,1,electric_bike,8
+2022-10-05,225.0,13.8,10,fall,E 22 St & 2 Ave,1,electric_bike,4
+2022-10-06,431.0,17.6,10,fall,Lexington Ave & E 26 St,1,classic_bike,6
+2022-10-07,434.0,20.3,10,fall,E 97 St & Madison Ave,1,electric_bike,23
+2022-10-08,354.0,13.9,10,fall,Broadway & W 58 St,1,classic_bike,11
+2022-10-09,292.0,12.3,10,fall,W 13 St & 7 Ave,1,electric_bike,10
+2022-10-10,361.0,15.8,10,fall,W 20 St & 8 Ave,1,electric_bike,35
+2022-10-11,366.0,17.0,10,fall,Central Ave & Flushing Ave,1,classic_bike,2
+2022-10-12,372.0,17.9,10,fall,Henry St & Grand St,1,classic_bike,83
+2022-10-13,273.0,18.7,10,fall,Division St & Bowery,1,classic_bike,5
+2022-10-14,388.0,15.7,10,fall,Frederick Douglass Blvd & W 139 St,1,classic_bike,5
+2022-10-15,408.0,16.2,10,fall,E 47 St & Park Ave,1,classic_bike,24
+2022-10-16,379.0,16.1,10,fall,1 Ave & E 39 St,1,electric_bike,10
+2022-10-17,288.0,16.6,10,fall,E 85 St & 3 Ave,1,classic_bike,10
+2022-10-18,350.0,12.6,10,fall,E 75 St & 3 Ave,1,electric_bike,44
+2022-10-19,325.0,10.0,10,fall,Central Park North & Adam Clayton Powell Blvd,1,electric_bike,4
+2022-10-20,367.0,11.1,10,fall,W 27 St & 7 Ave,1,classic_bike,7
+2022-10-21,377.0,13.4,10,fall,Myrtle Ave & Fleet Pl,1,classic_bike,7
+2022-10-22,348.0,14.4,10,fall,W 52 St & 6 Ave,1,electric_bike,13
+2022-10-23,198.0,14.7,10,fall,W 47 St & 9 Ave,1,electric_bike,21
+2022-10-24,226.0,14.1,10,fall,Lexington Ave & E 26 St,1,electric_bike,17
+2022-10-25,339.0,16.9,10,fall,Columbia Heights & Cranberry St,1,electric_bike,5
+2022-10-26,359.0,18.3,10,fall,11 Ave & W 41 St,1,classic_bike,11
+2022-10-27,388.0,16.9,10,fall,E 51 St & 2 Ave,1,classic_bike,12
+2022-10-28,389.0,11.3,10,fall,Sigourney St & Columbia St,1,classic_bike,13
+2022-10-29,383.0,10.8,10,fall,Carroll St & 5 Ave,1,classic_bike,3
+2022-10-30,330.0,12.5,10,fall,Allen St & Stanton St,1,classic_bike,11
+2022-10-31,341.0,14.4,10,fall,E 118 St & 3 Ave,1,electric_bike,11
+2022-11-01,442.0,16.9,11,fall,Lafayette Ave & Classon Ave,1,electric_bike,18
+2022-11-02,495.0,17.6,11,fall,Willis Ave & E 143 St,1,electric_bike,21
+2022-11-03,529.0,15.7,11,fall,Metropolitan Ave & Bedford Ave,1,electric_bike,21
+2022-11-04,456.0,15.2,11,fall,E 20 St & 2 Ave,1,classic_bike,3
+2022-11-05,564.0,19.4,11,fall,E 20 St & 2 Ave,1,classic_bike,4
+2022-11-06,405.0,19.8,11,fall,Berry St & N 8 St,1,electric_bike,16
+2022-11-07,402.0,21.3,11,fall,E 23 St & 1 Ave,1,electric_bike,7
+2022-11-08,422.0,13.2,11,fall,E 20 St & 2 Ave,1,classic_bike,4
+2022-11-09,376.0,8.7,11,fall,Murray St & Greenwich St,1,electric_bike,23
+2022-11-10,455.0,12.6,11,fall,E 41 St & Madison Ave (SE corner),1,classic_bike,4
+2022-11-11,228.0,16.4,11,fall,Hicks St & Montague St,1,classic_bike,2
+2022-11-12,472.0,19.7,11,fall,5 Ave & E 72 St,1,classic_bike,8
+2022-11-13,285.0,12.9,11,fall,West St & Liberty St,1,classic_bike,56
+2022-11-14,299.0,6.3,11,fall,W 48 St &  Rockefeller Plaza,1,classic_bike,21
+2022-11-15,252.0,4.9,11,fall,E 2 St & Avenue A,1,electric_bike,4
+2022-11-16,324.0,7.3,11,fall,Liberty St & Broadway,1,classic_bike,6
+2022-11-17,325.0,5.7,11,fall,E 20 St & 2 Ave,1,classic_bike,4
+2022-11-18,313.0,4.5,11,fall,Ocean Pkwy & Church Ave,1,classic_bike,16
+2022-11-19,251.0,2.8,11,fall,11 Ave & W 41 St,1,classic_bike,15
+2022-11-20,190.0,2.7,11,fall,E 10 St & Avenue A,1,electric_bike,3
+2022-11-21,242.0,1.1,11,fall,Monroe St & Bedford Ave,1,classic_bike,26
+2022-11-22,336.0,6.6,11,fall,3 Ave & E 62 St,1,electric_bike,15
+2022-11-23,354.0,9.4,11,fall,Schermerhorn St & Hoyt St,1,electric_bike,20
+2022-11-24,139.0,8.1,11,fall,Atlantic Ave & Furman St,1,classic_bike,36
+2022-11-25,195.0,10.0,11,fall,Murray St & West St,1,electric_bike,16
+2022-11-26,259.0,9.3,11,fall,W 84 St & Broadway,1,classic_bike,15
+2022-11-27,151.0,10.7,11,fall,E 2 St & Avenue A,1,electric_bike,21
+2022-11-28,298.0,12.2,11,fall,7 Ave & Central Park South,1,classic_bike,7
+2022-11-29,346.0,5.4,11,fall,31 St & Newtown Ave,1,classic_bike,8
+2022-11-30,264.0,8.4,11,fall,11 Ave & W 41 St,1,electric_bike,19
+2022-12-01,451.0,5.7,12,winter,Broadway & W 51 St,1,classic_bike,13
+2022-12-02,460.0,3.4,12,winter,Lafayette St & E 8 St,1,classic_bike,11
+2022-12-03,287.0,10.6,12,winter,48 St & Broadway,1,electric_bike,7
+2022-12-04,387.0,7.0,12,winter,West St & Chambers St,1,classic_bike,23
+2022-12-05,452.0,5.4,12,winter,28 St & 41 Ave,1,electric_bike,4
+2022-12-06,347.0,9.3,12,winter,E 40 St & Park Ave,1,electric_bike,14
+2022-12-07,455.0,13.8,12,winter,West St & Chambers St,1,electric_bike,15
+2022-12-08,560.0,11.6,12,winter,E 39 St & Lexington Ave,1,classic_bike,12
+2022-12-09,490.0,5.3,12,winter,W 15 St & 6 Ave,1,classic_bike,4
+2022-12-10,384.0,2.2,12,winter,Greenwich Ave & 8 Ave,1,electric_bike,8
+2022-12-11,202.0,3.4,12,winter,Irving Ave & Harman St,1,classic_bike,5
+2022-12-12,392.0,1.6,12,winter,W 15 St & 6 Ave,1,electric_bike,12
+2022-12-13,428.0,0.3,12,winter,West St & Chambers St,1,classic_bike,7
+2022-12-14,371.0,1.7,12,winter,Broadway & W 51 St,1,electric_bike,7
+2022-12-15,280.0,2.7,12,winter,W 31 St & 7 Ave,1,classic_bike,10
+2022-12-16,179.0,6.2,12,winter,E 17 St & 2 Ave,1,classic_bike,6
+2022-12-17,342.0,5.0,12,winter,W 37 St & 10 Ave,1,electric_bike,9
+2022-12-18,321.0,3.1,12,winter,Bleecker St & Crosby St,1,electric_bike,21
+2022-12-19,357.0,1.7,12,winter,E 2 St & Avenue B,1,electric_bike,2
+2022-12-20,400.0,1.9,12,winter,E 27 St & Park Ave S,1,electric_bike,11
+2022-12-21,364.0,1.0,12,winter,E 68 St & 3 Ave,1,electric_bike,13
+2022-12-22,232.0,3.8,12,winter,W 129 St & Convent Ave,1,electric_bike,2
+2022-12-23,162.0,7.5,12,winter,E 89 St & York Ave,1,electric_bike,7
+2022-12-24,72.0,-11.7,12,winter,Broadway & E 19 St,1,electric_bike,8
+2022-12-25,57.0,-6.9,12,winter,Degraw St & Hoyt St,1,electric_bike,6
+2022-12-26,127.0,-4.7,12,winter,E 170 St & Webster Ave,1,electric_bike,6
+2022-12-27,200.0,-0.7,12,winter,W 15 St & 6 Ave,1,classic_bike,13
+2022-12-28,290.0,3.4,12,winter,W 27 St & 7 Ave,1,classic_bike,8
+2022-12-29,335.0,6.4,12,winter,Grand Concourse & E 166 St,1,classic_bike,15
+2022-12-30,378.0,9.3,12,winter,W 47 St & 9 Ave,1,electric_bike,29
+2022-12-31,197.0,8.2,12,winter,35 St & 34 Ave,1,electric_bike,2
